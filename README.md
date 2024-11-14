@@ -4,3 +4,7 @@ R code to fit the models and reproduce the results described in Orozco-Acosta et
 ## R code
 
 The [R code](./rcode/) of this repository is organized according to the corresponding order in the paper.
+
+## python code
+
+The [python code](./python_rcode/) of this repository is the figure 2 in this paper
