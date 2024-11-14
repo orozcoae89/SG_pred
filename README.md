@@ -1,2 +1,6 @@
-# SG_pred
+# High-Frequency Sampling and Real-Time Event Detection for Enhanced Predictive Maintenance in Smart Grids
 R code to fit the models and reproduce the results described in Orozco-Acosta et al. (202X)
+
+## R code
+
+The [R code](./rcode/) of this repository is organized according to the corresponding order in the paper.
